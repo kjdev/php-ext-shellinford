@@ -15,18 +15,6 @@ More information about the shellinford can be found at
 % make install
 ```
 
-### Build option
-
-* --with-shellinford-includedir
-
-  shellinford include directory.
-  (ex: /path/to/shellinford/src)
-
-* --with-shellinford-libdir
-
-  shellinford library (libshellinford.so.0) directory.
-  (ex: /path/to/shellinford/libs)
-
 ## Configration
 
 shellinford.ini:
